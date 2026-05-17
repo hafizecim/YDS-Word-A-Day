@@ -5,50 +5,39 @@ on:
     - cron: '0 5 * * *' # Her sabah 08:00 TSİ
   workflow_dispatch:
 
+# Botun kendi iç yetkilerini en yükseğe çıkarıyoruz
 permissions:
   contents: write
+  id-token: write
 
 jobs:
   update-all:
     runs-on: ubuntu-latest
     steps:
+    # 1. Depoyu kendi iç tokenı ile klonla
     - name: Depoyu Klonla
-      run: |
-        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git .
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
+    # 2. Kelimeyi Seç (Python)
     - name: Kelimeyi Seç (Python)
       run: python3 update_word.py
 
-    - name: Depo Açıklamasını Güncelle (Zorlu Yöntem)
+    # 3. GitHub CLI ile dışarıdan şifre istemeden açıklamayı güncelle
+    - name: Depo Açıklamasını Güncelle
       env:
-        GH_TOKEN: ${{ secrets.STATUS_TOKEN }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        # Python'ın oluşturduğu kelime metnini oku
         DESC=$(cat repo_desc.txt)
-        # GitHub CLI ile deponun 'About' kısmını doğrudan güncelle
         gh repo edit ${{ github.repository }} --description "$DESC"
 
+    # 4. Değişiklikleri depoya kaydet
     - name: YDS Deposuna Push Et
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "hafizecim"
-        # Geçici text dosyasını commit etmeye gerek yok
-        rm repo_desc.txt
+        git config --local user.name "github-actions[bot]"
+        rm -f repo_desc.txt
         git add Gunun_Kelimesi.md
         git commit -m "Daily YDS Word Update: $(date +'%Y-%m-%d')" || exit 0
         git push
-
-    - name: Profil Durum Balonunu Güncelle
-      env:
-        USER_TOKEN: ${{ secrets.STATUS_TOKEN }}
-      run: |
-        WORD=$(python3 -c "
-        import json, random
-        with open('words.json', 'r', encoding='utf-8') as f:
-            w = random.choice(json.load(f))
-        print(f\"YDS Today: {w['word']} ({w['meaning']})\")
-        ")
-        
-        curl -X POST -H "Authorization: bearer $USER_TOKEN" \
-          -d "{\"query\": \"mutation { changeUserStatus(input: { message: \\\"$WORD\\\", emoji: \\\":speech_balloon:\\\" }) { status { message } } }\"}" \
-          https://api.github.com/graphql
