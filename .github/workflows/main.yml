@@ -2,24 +2,28 @@ name: Gunluk YDS Kelime Botu
 
 on:
   schedule:
-    # Her gün Türkiye saati ile sabah 08:00'de çalışır (UTC 05:00)
-    - cron: '0 5 * * *'
-  workflow_dispatch: # Manuel tetiklemek için
+    - cron: '0 5 * * *' # Her sabah 08:00 TSİ
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-status:
+  update-all:
     runs-on: ubuntu-latest
     steps:
-    # 1. Depoyu Klonla
     - name: Depoyu Klonla
       run: |
         git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git .
 
-    # 2. Kelimeyi Seç ve Dosyayı Güncelle
-    - name: Kelimeyi Güncelle
+    - name: Bağımlılıkları Kur
+      run: pip install requests
+
+    - name: Kelimeyi ve Depo Açıklamasını Güncelle
+      env:
+        STATUS_TOKEN: ${{ secrets.STATUS_TOKEN }}
       run: python3 update_word.py
 
-    # 3. Güncellenen dosyayı depoya push et
     - name: YDS Deposuna Push Et
       run: |
         git config --local user.email "action@github.com"
@@ -28,12 +32,10 @@ jobs:
         git commit -m "Daily YDS Word Update: $(date +'%Y-%m-%d')" || exit 0
         git push
 
-    # 4. Sihirli Dokunuş: Profil Durumunu (Status) Değiştir
-    - name: Profil Durumunu Guncelle
+    - name: Profil Durum Balonunu Güncelle
       env:
         USER_TOKEN: ${{ secrets.STATUS_TOKEN }}
       run: |
-        # Gunun_Kelimesi.md dosyasından kelimeyi ve anlamını çekiyoruz
         WORD=$(python3 -c "
         import json, random
         with open('words.json', 'r', encoding='utf-8') as f:
@@ -41,7 +43,6 @@ jobs:
         print(f\"YDS Today: {w['word']} ({w['meaning']})\")
         ")
         
-        # GitHub GraphQL API kullanarak durumu güncelliyoruz
         curl -X POST -H "Authorization: bearer $USER_TOKEN" \
           -d "{\"query\": \"mutation { changeUserStatus(input: { message: \\\"$WORD\\\", emoji: \\\":speech_balloon:\\\" }) { status { message } } }\"}" \
           https://api.github.com/graphql
