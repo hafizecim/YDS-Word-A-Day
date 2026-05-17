@@ -16,18 +16,24 @@ jobs:
       run: |
         git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git .
 
-    - name: Bağımlılıkları Kur
-      run: pip install requests
-
-    - name: Kelimeyi ve Depo Açıklamasını Güncelle
-      env:
-        STATUS_TOKEN: ${{ secrets.STATUS_TOKEN }}
+    - name: Kelimeyi Seç (Python)
       run: python3 update_word.py
+
+    - name: Depo Açıklamasını Güncelle (Zorlu Yöntem)
+      env:
+        GH_TOKEN: ${{ secrets.STATUS_TOKEN }}
+      run: |
+        # Python'ın oluşturduğu kelime metnini oku
+        DESC=$(cat repo_desc.txt)
+        # GitHub CLI ile deponun 'About' kısmını doğrudan güncelle
+        gh repo edit ${{ github.repository }} --description "$DESC"
 
     - name: YDS Deposuna Push Et
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "hafizecim"
+        # Geçici text dosyasını commit etmeye gerek yok
+        rm repo_desc.txt
         git add Gunun_Kelimesi.md
         git commit -m "Daily YDS Word Update: $(date +'%Y-%m-%d')" || exit 0
         git push
