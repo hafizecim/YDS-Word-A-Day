@@ -1,5 +1,5 @@
 # 📝 Günün YDS Kelimesi (2026-05-17)
 
-## 🎯 **Compensate**
-* **Anlamı:** Tanzim etmek, telafi etmek
-* **Örnek Cümle:** *Nothing can compensate for the loss of a loved one.*
+## 🎯 **Conclusive**
+* **Anlamı:** Kesin, nihai, ikna edici
+* **Örnek Cümle:** *The DNA test provided conclusive proof that he was guilty.*
