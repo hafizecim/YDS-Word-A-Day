@@ -5,39 +5,23 @@ on:
     - cron: '0 5 * * *' # Her sabah 08:00 TSİ
   workflow_dispatch:
 
-# Botun kendi iç yetkilerini en yükseğe çıkarıyoruz
 permissions:
   contents: write
-  id-token: write
 
 jobs:
-  update-all:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-    # 1. Depoyu kendi iç tokenı ile klonla
     - name: Depoyu Klonla
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
 
-    # 2. Kelimeyi Seç (Python)
-    - name: Kelimeyi Seç (Python)
+    - name: Kelimeyi Seç ve README'yi Güncelle
       run: python3 update_word.py
 
-    # 3. GitHub CLI ile dışarıdan şifre istemeden açıklamayı güncelle
-    - name: Depo Açıklamasını Güncelle
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        DESC=$(cat repo_desc.txt)
-        gh repo edit ${{ github.repository }} --description "$DESC"
-
-    # 4. Değişiklikleri depoya kaydet
-    - name: YDS Deposuna Push Et
+    - name: Değişiklikleri GitHub'a Yükle
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "github-actions[bot]"
-        rm -f repo_desc.txt
-        git add Gunun_Kelimesi.md
+        git add README.md
         git commit -m "Daily YDS Word Update: $(date +'%Y-%m-%d')" || exit 0
         git push
