@@ -9,16 +9,38 @@ permissions:
   contents: write
 
 jobs:
-  update-readme:
+  update-all:
     runs-on: ubuntu-latest
     steps:
     - name: Depoyu Klonla
       uses: actions/checkout@v4
 
-    - name: Kelimeyi Seç ve README'yi Güncelle
-      run: python3 update_word.py
+    - name: Kelimeyi Sec (Python)
+      run: |
+        python3 -c "
+        import json, random
+        from datetime import datetime
+        with open('words.json', 'r', encoding='utf-8') as f:
+            w = random.choice(json.load(f))
+        today = datetime.now().strftime('%Y-%m-%d')
+        
+        # Hem README'yi hem de kısa açıklamayı hazırlıyoruz
+        with open('README.md', 'w', encoding='utf-8') as f_out:
+            f_out.write(f'# 🎯 Günün Kelimesi: {w[\"word\"]} ({w[\"meaning\"]})\\n\\n### 📝 Kelime Detayları ({today})\\n* **Kelime:** {w[\"word\"]}\\n* **Anlamı:** {w[\"meaning\"]}\\n* **Örnek Cümle:** *{w[\"example\"]}\\n*')
+        
+        with open('desc.txt', 'w', encoding='utf-8') as f_desc:
+            f_desc.write(f'🎯 {w[\"word\"]}: {w[\"meaning\"]}')
+        "
 
-    - name: Değişiklikleri GitHub'a Yükle
+    - name: Depo Aciklamasini Guncelle (Kutunun İçi)
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        DESC=$(cat desc.txt)
+        gh repo edit ${{ github.repository }} --description "$DESC"
+        rm -f desc.txt
+
+    - name: Degisiklikleri GitHub'a Yukle
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "github-actions[bot]"
