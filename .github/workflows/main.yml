@@ -9,24 +9,18 @@ on:
 permissions:
   contents: write
 
-# Node.js 20 uyarılarını tamamen kapatmak ve Node 24'ü zorlamak için çevresel değişken ekliyoruz
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   update-word:
     runs-on: ubuntu-latest
     steps:
+    # Eklenti kullanmadan depoyu doğrudan Git komutuyla klonluyoruz
     - name: Depoyu Klonla
-      uses: actions/checkout@v4
-
-    - name: Python Kur
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x'
-
+      run: |
+        git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git .
+        
+    # İşletim sisteminin içinde zaten var olan Python'ı doğrudan kullanıyoruz
     - name: Kelimeyi Güncelle
-      run: python update_word.py
+      run: python3 update_word.py
 
     - name: GitHub'a Commit Et ve Gönder
       run: |
