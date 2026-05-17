@@ -4,17 +4,23 @@ on:
   schedule:
     # Her gün Türkiye saati ile sabah 08:00'de çalışır (UTC 05:00)
     - cron: '0 5 * * *'
-  workflow_dispatch: # İstediğin zaman manuel de çalıştırabilmen için
+  workflow_dispatch: # İstediğin zaman manuel tetiklemek için
+
+# GitHub Action botuna deponuza yazma (Write) yetkisi veriyoruz (Hata 128'in çözümü)
+permissions:
+  contents: write
 
 jobs:
   update-word:
     runs-on: ubuntu-latest
     steps:
+    # Node.js 24 uyumlu en güncel v4 eklentisi
     - name: Depoyu Klonla
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
+    # Node.js 24 uyumlu en güncel v5 eklentisi
     - name: Python Kur
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
@@ -23,8 +29,9 @@ jobs:
 
     - name: GitHub'a Commit Et ve Gönder
       run: |
+        # E-posta kısmına kendi GitHub e-postanı, name kısmına hafizecim yazabilirsin
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.name "hafizecim"
         git add Gunun_Kelimesi.md
-        git commit -m "Anlık YDS Kelime Güncellemesi: $(date +'%Y-%m-%d')" || exit 0
+        git commit -m "Daily YDS Word Update: $(date +'%Y-%m-%d')" || exit 0
         git push
