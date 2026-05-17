@@ -15,35 +15,22 @@ jobs:
     - name: Depoyu Klonla
       uses: actions/checkout@v4
 
-    - name: Kelimeyi Sec (Python)
-      run: |
-        python3 -c "
-        import json, random
-        from datetime import datetime
-        with open('words.json', 'r', encoding='utf-8') as f:
-            w = random.choice(json.load(f))
-        today = datetime.now().strftime('%Y-%m-%d')
-        
-        # Hem README'yi hem de kısa açıklamayı hazırlıyoruz
-        with open('README.md', 'w', encoding='utf-8') as f_out:
-            f_out.write(f'# 🎯 Günün Kelimesi: {w[\"word\"]} ({w[\"meaning\"]})\\n\\n### 📝 Kelime Detayları ({today})\\n* **Kelime:** {w[\"word\"]}\\n* **Anlamı:** {w[\"meaning\"]}\\n* **Örnek Cümle:** *{w[\"example\"]}\\n*')
-        
-        with open('desc.txt', 'w', encoding='utf-8') as f_desc:
-            f_desc.write(f'🎯 {w[\"word\"]}: {w[\"meaning\"]}')
-        "
-
-    - name: Depo Aciklamasini Guncelle (Kutunun İçi)
+    - name: Kelimeyi Sec ve Depoyu Yeniden Adlandir
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        DESC=$(cat desc.txt)
-        gh repo edit ${{ github.repository }} --description "$DESC"
-        rm -f desc.txt
-
-    - name: Degisiklikleri GitHub'a Yukle
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "github-actions[bot]"
-        git add README.md
-        git commit -m "Daily YDS Word Update: $(date +'%Y-%m-%d')" || exit 0
-        git push
+        # 1. Havuzdan rastgele kelime seç (Basit inline python)
+        WORD_DATA=$(python3 -c "
+        import json, random
+        with open('words.json', 'r', encoding='utf-8') as f:
+            w = random.choice(json.load(f))
+        print(f\"{w['word']}-{w['meaning']}\")
+        ")
+        
+        # GitHub'ın isimlendirme kuralları için boşlukları tireye çevirip temizliyoruz
+        CLEAN_NAME=$(echo "YDS-$WORD_DATA" | sed 's/ //g' | sed 's/,,//g' | tr '[:upper:]' '[:lower:]')
+        
+        echo "Yeni Depo Adi: $CLEAN_NAME"
+        
+        # 2. GitHub CLI ile depoyu anında yeniden adlandırıyoruz (Bu izin asla engellenmez!)
+        gh repo rename "$CLEAN_NAME" --yes
