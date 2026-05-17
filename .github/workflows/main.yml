@@ -6,19 +6,20 @@ on:
     - cron: '0 5 * * *'
   workflow_dispatch: # İstediğin zaman manuel tetiklemek için
 
-# GitHub Action botuna deponuza yazma (Write) yetkisi veriyoruz (Hata 128'in çözümü)
 permissions:
   contents: write
+
+# Node.js 20 uyarılarını tamamen kapatmak ve Node 24'ü zorlamak için çevresel değişken ekliyoruz
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update-word:
     runs-on: ubuntu-latest
     steps:
-    # Node.js 24 uyumlu en güncel v4 eklentisi
     - name: Depoyu Klonla
       uses: actions/checkout@v4
 
-    # Node.js 24 uyumlu en güncel v5 eklentisi
     - name: Python Kur
       uses: actions/setup-python@v5
       with:
@@ -29,7 +30,6 @@ jobs:
 
     - name: GitHub'a Commit Et ve Gönder
       run: |
-        # E-posta kısmına kendi GitHub e-postanı, name kısmına hafizecim yazabilirsin
         git config --local user.email "action@github.com"
         git config --local user.name "hafizecim"
         git add Gunun_Kelimesi.md
