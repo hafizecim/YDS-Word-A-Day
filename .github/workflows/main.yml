@@ -9,28 +9,19 @@ permissions:
   contents: write
 
 jobs:
-  update-all:
+  update-svg:
     runs-on: ubuntu-latest
     steps:
     - name: Depoyu Klonla
       uses: actions/checkout@v4
 
-    - name: Kelimeyi Sec ve Depoyu Yeniden Adlandir
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Kelime SVG Oluştur (Python)
+      run: python3 update_word.py
+
+    - name: Değişiklikleri Yükle
       run: |
-        # 1. Havuzdan rastgele kelime seç (Basit inline python)
-        WORD_DATA=$(python3 -c "
-        import json, random
-        with open('words.json', 'r', encoding='utf-8') as f:
-            w = random.choice(json.load(f))
-        print(f\"{w['word']}-{w['meaning']}\")
-        ")
-        
-        # GitHub'ın isimlendirme kuralları için boşlukları tireye çevirip temizliyoruz
-        CLEAN_NAME=$(echo "YDS-$WORD_DATA" | sed 's/ //g' | sed 's/,,//g' | tr '[:upper:]' '[:lower:]')
-        
-        echo "Yeni Depo Adi: $CLEAN_NAME"
-        
-        # 2. GitHub CLI ile depoyu anında yeniden adlandırıyoruz (Bu izin asla engellenmez!)
-        gh repo rename "$CLEAN_NAME" --yes
+        git config --local user.email "action@github.com"
+        git config --local user.name "github-actions[bot]"
+        git add yds_word.svg
+        git commit -m "Daily YDS SVG Update: $(date +'%Y-%m-%d')" || exit 0
+        git push
