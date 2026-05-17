@@ -2,9 +2,12 @@ name: Gunluk YDS Kelime Botu
 
 on:
   schedule:
-    # Her gün Türkiye saati ile sabah 08:00'de çalışır (UTC 05:00)
-    - cron: '0 5 * * *'
-  workflow_dispatch: # İstediğin zaman manuel tetiklemek için
+    # Günde 3 kez çalışır: 
+    # 1. Sabah 08:00 TSİ (05:00 UTC)
+    # 2. Öğlen 13:00 TSİ (10:00 UTC)
+    # 3. Akşam 20:00 TSİ (17:00 UTC)
+    - cron: '0 5,10,17 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
