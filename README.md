@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/hafizecim/YDS-Word-A-Day/main/yds_word.svg" alt="YDS Word of the Day" />
 </p>
+
 # 🎯 Günün Kelimesi: **Deteriorate** (Kötüleşmek, bozulmak)
 
 ---
