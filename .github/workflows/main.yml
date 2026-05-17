@@ -9,19 +9,19 @@ permissions:
   contents: write
 
 jobs:
-  update-svg:
+  update-all:
     runs-on: ubuntu-latest
     steps:
     - name: Depoyu Klonla
       uses: actions/checkout@v4
 
-    - name: Kelime SVG Oluştur (Python)
+    - name: Kelimeyi Sec ve Dosyalari Guncelle (Python)
       run: python3 update_word.py
 
-    - name: Değişiklikleri Yükle
+    - name: Degisiklikleri Yukle (Hem SVG hem README)
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "github-actions[bot]"
-        git add yds_word.svg
-        git commit -m "Daily YDS SVG Update: $(date +'%Y-%m-%d')" || exit 0
+        git add yds_word.svg README.md
+        git commit -m "Daily YDS Update (Sync & New Design): $(date +'%Y-%m-%d')" || exit 0
         git push
