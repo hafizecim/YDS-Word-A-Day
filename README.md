@@ -1,3 +1,4 @@
+![YDS Word](https://raw.githubusercontent.com/hafizecim/YDS-Word-A-Day/main/yds_word.svg)
 # 🎯 Günün Kelimesi: Durable (Dayanıklı, uzun ömürlü)
 
 ---
