@@ -1,0 +1,30 @@
+name: Gunluk YDS Kelime Botu
+
+on:
+  schedule:
+    # Her gün Türkiye saati ile sabah 08:00'de çalışır (UTC 05:00)
+    - cron: '0 5 * * *'
+  workflow_dispatch: # İstediğin zaman manuel de çalıştırabilmen için
+
+jobs:
+  update-word:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Depoyu Klonla
+      uses: actions/checkout@v3
+
+    - name: Python Kur
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Kelimeyi Güncelle
+      run: python update_word.py
+
+    - name: GitHub'a Commit Et ve Gönder
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add Gunun_Kelimesi.md
+        git commit -m "Anlık YDS Kelime Güncellemesi: $(date +'%Y-%m-%d')" || exit 0
+        git push
