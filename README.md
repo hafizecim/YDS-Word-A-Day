@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hafizecim/YDS-Word-A-Day/main/yds_word.svg" alt="YDS Word of the Day" />
-</p>
-
-# 🎯 Günün Kelimesi: **Deteriorate** (Kötüleşmek, bozulmak)
+# 🎯 Günün Kelimesi: **Decline** (Reddetmek, azalmak, düşüş)
 
 ---
 
-### 📝 Kelime Detayları (2026-05-17)
-* **Kelime:** **Deteriorate**
-* **Anlamı:** Kötüleşmek, bozulmak
-* **Örnek Cümle:** *The patient's condition began to deteriorate rapidly overnight.*
+### 📝 Kelime Detayları (2026-05-18)
+* **Kelime:** **Decline**
+* **Anlamı:** Reddetmek, azalmak, düşüş
+* **Örnek Cümle:** *The number of tourists visiting the city has begun to decline.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
