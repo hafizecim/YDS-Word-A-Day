@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Decline** (Reddetmek, azalmak, düşüş)
+# 🎯 Günün Kelimesi: **Cope** (Başa çıkmak, üstesinden gelmek)
 
 ---
 
 ### 📝 Kelime Detayları (2026-05-18)
-* **Kelime:** **Decline**
-* **Anlamı:** Reddetmek, azalmak, düşüş
-* **Örnek Cümle:** *The number of tourists visiting the city has begun to decline.*
+* **Kelime:** **Cope**
+* **Anlamı:** Başa çıkmak, üstesinden gelmek
+* **Örnek Cümle:** *It can be difficult to cope with the stress of exam preparation.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
