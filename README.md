@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Cope** (Başa çıkmak, üstesinden gelmek)
+# 🎯 Günün Kelimesi: **Deliberately** (Kasten, bilerek, planlı olarak)
 
 ---
 
-### 📝 Kelime Detayları (2026-05-18)
-* **Kelime:** **Cope**
-* **Anlamı:** Başa çıkmak, üstesinden gelmek
-* **Örnek Cümle:** *It can be difficult to cope with the stress of exam preparation.*
+### 📝 Kelime Detayları (2026-05-19)
+* **Kelime:** **Deliberately**
+* **Anlamı:** Kasten, bilerek, planlı olarak
+* **Örnek Cümle:** *I believe that the fire was started deliberately.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
