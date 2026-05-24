@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Accelerate** (Hızlandırmak, ivme kazandırmak)
+# 🎯 Günün Kelimesi: **Conclusive** (Kesin, nihai, ikna edici)
 
 ---
 
-### 📝 Kelime Detayları (2026-05-23)
-* **Kelime:** **Accelerate**
-* **Anlamı:** Hızlandırmak, ivme kazandırmak
-* **Örnek Cümle:** *Exposure to the sun can accelerate the ageing process of the skin.*
+### 📝 Kelime Detayları (2026-05-24)
+* **Kelime:** **Conclusive**
+* **Anlamı:** Kesin, nihai, ikna edici
+* **Örnek Cümle:** *The DNA test provided conclusive proof that he was guilty.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
