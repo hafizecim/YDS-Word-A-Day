@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conclusive** (Kesin, nihai, ikna edici)
+# 🎯 Günün Kelimesi: **Barren** (Çorak, verimsiz, kısır)
 
 ---
 
-### 📝 Kelime Detayları (2026-05-24)
-* **Kelime:** **Conclusive**
-* **Anlamı:** Kesin, nihai, ikna edici
-* **Örnek Cümle:** *The DNA test provided conclusive proof that he was guilty.*
+### 📝 Kelime Detayları (2026-05-25)
+* **Kelime:** **Barren**
+* **Anlamı:** Çorak, verimsiz, kısır
+* **Örnek Cümle:** *Few plants can grow in the barren soil of the desert.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
