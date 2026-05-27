@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Ambiguous** (Belirsiz, muğlak, çift anlamlı)
+# 🎯 Günün Kelimesi: **Confine** (Sınırlandırmak, hapsetmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-05-26)
-* **Kelime:** **Ambiguous**
-* **Anlamı:** Belirsiz, muğlak, çift anlamlı
-* **Örnek Cümle:** *The government's position on this issue remains ambiguous.*
+### 📝 Kelime Detayları (2026-05-27)
+* **Kelime:** **Confine**
+* **Anlamı:** Sınırlandırmak, hapsetmek
+* **Örnek Cümle:** *Please confine your questions to the topic of today's lecture.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
