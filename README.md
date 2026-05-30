@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Abruptly** (Aniden, dikkatsizce, birdenbire)
+# 🎯 Günün Kelimesi: **Alter** (Değiştirmek, değiştirmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-05-29)
-* **Kelime:** **Abruptly**
-* **Anlamı:** Aniden, dikkatsizce, birdenbire
-* **Örnek Cümle:** *The bus came to an abrupt stop, making the passengers fall forward.*
+### 📝 Kelime Detayları (2026-05-30)
+* **Kelime:** **Alter**
+* **Anlamı:** Değiştirmek, değiştirmek
+* **Örnek Cümle:** *We had to alter our plans due to the unexpected bad weather.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
