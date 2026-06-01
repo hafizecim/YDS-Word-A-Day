@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conceal** (Gizlemek, saklamak)
+# 🎯 Günün Kelimesi: **Durable** (Dayanıklı, uzun ömürlü)
 
 ---
 
-### 📝 Kelime Detayları (2026-05-31)
-* **Kelime:** **Conceal**
-* **Anlamı:** Gizlemek, saklamak
-* **Örnek Cümle:** *She tried to conceal her emotions behind a big smile.*
+### 📝 Kelime Detayları (2026-06-01)
+* **Kelime:** **Durable**
+* **Anlamı:** Dayanıklı, uzun ömürlü
+* **Örnek Cümle:** *Plastic is a very durable material that can last for centuries.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
