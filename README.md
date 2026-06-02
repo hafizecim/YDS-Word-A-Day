@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Durable** (Dayanıklı, uzun ömürlü)
+# 🎯 Günün Kelimesi: **Abolish** (Yürürlükten kaldırmak, feshetmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-01)
-* **Kelime:** **Durable**
-* **Anlamı:** Dayanıklı, uzun ömürlü
-* **Örnek Cümle:** *Plastic is a very durable material that can last for centuries.*
+### 📝 Kelime Detayları (2026-06-02)
+* **Kelime:** **Abolish**
+* **Anlamı:** Yürürlükten kaldırmak, feshetmek
+* **Örnek Cümle:** *Many people think that the death penalty should be abolished.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
