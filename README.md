@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Attribute** (Atfetmek, bağlamak, dayandırmak)
+# 🎯 Günün Kelimesi: **Accelerate** (Hızlandırmak, ivme kazandırmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-12)
-* **Kelime:** **Attribute**
-* **Anlamı:** Atfetmek, bağlamak, dayandırmak
-* **Örnek Cümle:** *Scientists attribute the rise in global temperatures to pollution.*
+### 📝 Kelime Detayları (2026-06-13)
+* **Kelime:** **Accelerate**
+* **Anlamı:** Hızlandırmak, ivme kazandırmak
+* **Örnek Cümle:** *Exposure to the sun can accelerate the ageing process of the skin.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
