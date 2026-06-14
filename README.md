@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Accelerate** (Hızlandırmak, ivme kazandırmak)
+# 🎯 Günün Kelimesi: **Diminish** (Azalmak, eksilmek, küçülmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-13)
-* **Kelime:** **Accelerate**
-* **Anlamı:** Hızlandırmak, ivme kazandırmak
-* **Örnek Cümle:** *Exposure to the sun can accelerate the ageing process of the skin.*
+### 📝 Kelime Detayları (2026-06-14)
+* **Kelime:** **Diminish**
+* **Anlamı:** Azalmak, eksilmek, küçülmek
+* **Örnek Cümle:** *The threat of war began to diminish as peace talks progressed.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
