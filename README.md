@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Diminish** (Azalmak, eksilmek, küçülmek)
+# 🎯 Günün Kelimesi: **Drastic** (Radikal, büyük, sert, şiddetli)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-14)
-* **Kelime:** **Diminish**
-* **Anlamı:** Azalmak, eksilmek, küçülmek
-* **Örnek Cümle:** *The threat of war began to diminish as peace talks progressed.*
+### 📝 Kelime Detayları (2026-06-15)
+* **Kelime:** **Drastic**
+* **Anlamı:** Radikal, büyük, sert, şiddetli
+* **Örnek Cümle:** *The company had to take drastic measures to avoid going bankrupt.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
