@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Drastic** (Radikal, büyük, sert, şiddetli)
+# 🎯 Günün Kelimesi: **Breakthrough** (Büyük buluş, önemli ilerleme)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-15)
-* **Kelime:** **Drastic**
-* **Anlamı:** Radikal, büyük, sert, şiddetli
-* **Örnek Cümle:** *The company had to take drastic measures to avoid going bankrupt.*
+### 📝 Kelime Detayları (2026-06-16)
+* **Kelime:** **Breakthrough**
+* **Anlamı:** Büyük buluş, önemli ilerleme
+* **Örnek Cümle:** *Researchers made a major breakthrough in cancer treatment last year.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
