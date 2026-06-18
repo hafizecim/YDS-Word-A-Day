@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
+# 🎯 Günün Kelimesi: **Contradict** (Aksini iddia etmek, çelişmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-17)
-* **Kelime:** **Conduct**
-* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
-* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
+### 📝 Kelime Detayları (2026-06-18)
+* **Kelime:** **Contradict**
+* **Anlamı:** Aksini iddia etmek, çelişmek
+* **Örnek Cümle:** *The witness's new statement seemed to contradict her previous one.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
