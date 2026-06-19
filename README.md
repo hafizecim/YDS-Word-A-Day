@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Contradict** (Aksini iddia etmek, çelişmek)
+# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-18)
-* **Kelime:** **Contradict**
-* **Anlamı:** Aksini iddia etmek, çelişmek
-* **Örnek Cümle:** *The witness's new statement seemed to contradict her previous one.*
+### 📝 Kelime Detayları (2026-06-19)
+* **Kelime:** **Adopt**
+* **Anlamı:** Benimsemek, evlat edinmek
+* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
