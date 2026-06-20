@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
+# 🎯 Günün Kelimesi: **Drastic** (Radikal, büyük, sert, şiddetli)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-19)
-* **Kelime:** **Adopt**
-* **Anlamı:** Benimsemek, evlat edinmek
-* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
+### 📝 Kelime Detayları (2026-06-20)
+* **Kelime:** **Drastic**
+* **Anlamı:** Radikal, büyük, sert, şiddetli
+* **Örnek Cümle:** *The company had to take drastic measures to avoid going bankrupt.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
