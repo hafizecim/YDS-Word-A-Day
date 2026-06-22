@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deteriorate** (Kötüleşmek, bozulmak)
+# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-21)
-* **Kelime:** **Deteriorate**
-* **Anlamı:** Kötüleşmek, bozulmak
-* **Örnek Cümle:** *The patient's condition began to deteriorate rapidly overnight.*
+### 📝 Kelime Detayları (2026-06-22)
+* **Kelime:** **Conduct**
+* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
+* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
