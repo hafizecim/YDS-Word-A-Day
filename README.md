@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
+# 🎯 Günün Kelimesi: **Compensate** (Tanzim etmek, telafi etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-22)
-* **Kelime:** **Conduct**
-* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
-* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
+### 📝 Kelime Detayları (2026-06-23)
+* **Kelime:** **Compensate**
+* **Anlamı:** Tanzim etmek, telafi etmek
+* **Örnek Cümle:** *Nothing can compensate for the loss of a loved one.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
