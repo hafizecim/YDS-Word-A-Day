@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Condemn** (Kınamak, mahkum etmek)
+# 🎯 Günün Kelimesi: **Accurate** (Doğru, kesin, hatasız)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-25)
-* **Kelime:** **Condemn**
-* **Anlamı:** Kınamak, mahkum etmek
-* **Örnek Cümle:** *The United Nations voted to condemn the brutal attack.*
+### 📝 Kelime Detayları (2026-06-26)
+* **Kelime:** **Accurate**
+* **Anlamı:** Doğru, kesin, hatasız
+* **Örnek Cümle:** *Scientists need accurate measurements to get valid results.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
