@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Disaster** (Felaket, afet)
+# 🎯 Günün Kelimesi: **Devastate** (Yerle bir etmek, harap etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-29)
-* **Kelime:** **Disaster**
-* **Anlamı:** Felaket, afet
-* **Örnek Cümle:** *The flooding was the worst natural disaster in the country's history.*
+### 📝 Kelime Detayları (2026-06-30)
+* **Kelime:** **Devastate**
+* **Anlamı:** Yerle bir etmek, harap etmek
+* **Örnek Cümle:** *The earthquake managed to devastate the entire historical town.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
