@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Devastate** (Yerle bir etmek, harap etmek)
+# 🎯 Günün Kelimesi: **Deficient** (Eksik, yetersiz)
 
 ---
 
-### 📝 Kelime Detayları (2026-06-30)
-* **Kelime:** **Devastate**
-* **Anlamı:** Yerle bir etmek, harap etmek
-* **Örnek Cümle:** *The earthquake managed to devastate the entire historical town.*
+### 📝 Kelime Detayları (2026-07-01)
+* **Kelime:** **Deficient**
+* **Anlamı:** Eksik, yetersiz
+* **Örnek Cümle:** *A diet deficient in calcium can lead to weak bones.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
