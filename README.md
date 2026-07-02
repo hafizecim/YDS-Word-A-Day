@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deficient** (Eksik, yetersiz)
+# 🎯 Günün Kelimesi: **Deliberately** (Kasten, bilerek, planlı olarak)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-01)
-* **Kelime:** **Deficient**
-* **Anlamı:** Eksik, yetersiz
-* **Örnek Cümle:** *A diet deficient in calcium can lead to weak bones.*
+### 📝 Kelime Detayları (2026-07-02)
+* **Kelime:** **Deliberately**
+* **Anlamı:** Kasten, bilerek, planlı olarak
+* **Örnek Cümle:** *I believe that the fire was started deliberately.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
