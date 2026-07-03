@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deliberately** (Kasten, bilerek, planlı olarak)
+# 🎯 Günün Kelimesi: **Compel** (Zorlamak, mecbur etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-02)
-* **Kelime:** **Deliberately**
-* **Anlamı:** Kasten, bilerek, planlı olarak
-* **Örnek Cümle:** *I believe that the fire was started deliberately.*
+### 📝 Kelime Detayları (2026-07-03)
+* **Kelime:** **Compel**
+* **Anlamı:** Zorlamak, mecbur etmek
+* **Örnek Cümle:** *The bad economic situation will compel the company to cut costs.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
