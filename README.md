@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Compel** (Zorlamak, mecbur etmek)
+# 🎯 Günün Kelimesi: **Durable** (Dayanıklı, uzun ömürlü)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-03)
-* **Kelime:** **Compel**
-* **Anlamı:** Zorlamak, mecbur etmek
-* **Örnek Cümle:** *The bad economic situation will compel the company to cut costs.*
+### 📝 Kelime Detayları (2026-07-04)
+* **Kelime:** **Durable**
+* **Anlamı:** Dayanıklı, uzun ömürlü
+* **Örnek Cümle:** *Plastic is a very durable material that can last for centuries.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
