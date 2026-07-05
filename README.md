@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Durable** (Dayanıklı, uzun ömürlü)
+# 🎯 Günün Kelimesi: **Devastate** (Yerle bir etmek, harap etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-04)
-* **Kelime:** **Durable**
-* **Anlamı:** Dayanıklı, uzun ömürlü
-* **Örnek Cümle:** *Plastic is a very durable material that can last for centuries.*
+### 📝 Kelime Detayları (2026-07-05)
+* **Kelime:** **Devastate**
+* **Anlamı:** Yerle bir etmek, harap etmek
+* **Örnek Cümle:** *The earthquake managed to devastate the entire historical town.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
