@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Ambiguous** (Belirsiz, muğlak, çift anlamlı)
+# 🎯 Günün Kelimesi: **Amplify** (Artırmak, kuvvetlendirmek, büyütmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-07)
-* **Kelime:** **Ambiguous**
-* **Anlamı:** Belirsiz, muğlak, çift anlamlı
-* **Örnek Cümle:** *The government's position on this issue remains ambiguous.*
+### 📝 Kelime Detayları (2026-07-08)
+* **Kelime:** **Amplify**
+* **Anlamı:** Artırmak, kuvvetlendirmek, büyütmek
+* **Örnek Cümle:** *The new public speaker system will amplify the sound across the stadium.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
