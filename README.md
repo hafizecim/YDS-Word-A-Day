@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Amplify** (Artırmak, kuvvetlendirmek, büyütmek)
+# 🎯 Günün Kelimesi: **Abundant** (Bol, bereketli)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-08)
-* **Kelime:** **Amplify**
-* **Anlamı:** Artırmak, kuvvetlendirmek, büyütmek
-* **Örnek Cümle:** *The new public speaker system will amplify the sound across the stadium.*
+### 📝 Kelime Detayları (2026-07-09)
+* **Kelime:** **Abundant**
+* **Anlamı:** Bol, bereketli
+* **Örnek Cümle:** *The region is famous for its abundant natural resources.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
