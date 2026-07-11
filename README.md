@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Durable** (Dayanıklı, uzun ömürlü)
+# 🎯 Günün Kelimesi: **Diminish** (Azalmak, eksilmek, küçülmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-10)
-* **Kelime:** **Durable**
-* **Anlamı:** Dayanıklı, uzun ömürlü
-* **Örnek Cümle:** *Plastic is a very durable material that can last for centuries.*
+### 📝 Kelime Detayları (2026-07-11)
+* **Kelime:** **Diminish**
+* **Anlamı:** Azalmak, eksilmek, küçülmek
+* **Örnek Cümle:** *The threat of war began to diminish as peace talks progressed.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
