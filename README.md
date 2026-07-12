@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Diminish** (Azalmak, eksilmek, küçülmek)
+# 🎯 Günün Kelimesi: **Ambiguous** (Belirsiz, muğlak, çift anlamlı)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-11)
-* **Kelime:** **Diminish**
-* **Anlamı:** Azalmak, eksilmek, küçülmek
-* **Örnek Cümle:** *The threat of war began to diminish as peace talks progressed.*
+### 📝 Kelime Detayları (2026-07-12)
+* **Kelime:** **Ambiguous**
+* **Anlamı:** Belirsiz, muğlak, çift anlamlı
+* **Örnek Cümle:** *The government's position on this issue remains ambiguous.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
