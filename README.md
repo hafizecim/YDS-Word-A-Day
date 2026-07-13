@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Ambiguous** (Belirsiz, muğlak, çift anlamlı)
+# 🎯 Günün Kelimesi: **Brittle** (Kırılgan, hassas)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-12)
-* **Kelime:** **Ambiguous**
-* **Anlamı:** Belirsiz, muğlak, çift anlamlı
-* **Örnek Cümle:** *The government's position on this issue remains ambiguous.*
+### 📝 Kelime Detayları (2026-07-13)
+* **Kelime:** **Brittle**
+* **Anlamı:** Kırılgan, hassas
+* **Örnek Cümle:** *As people get older, their bones become more brittle.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
