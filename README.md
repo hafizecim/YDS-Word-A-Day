@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
+# 🎯 Günün Kelimesi: **Accurate** (Doğru, kesin, hatasız)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-17)
-* **Kelime:** **Conduct**
-* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
-* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
+### 📝 Kelime Detayları (2026-07-18)
+* **Kelime:** **Accurate**
+* **Anlamı:** Doğru, kesin, hatasız
+* **Örnek Cümle:** *Scientists need accurate measurements to get valid results.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
