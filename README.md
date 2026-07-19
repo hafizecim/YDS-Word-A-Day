@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Accurate** (Doğru, kesin, hatasız)
+# 🎯 Günün Kelimesi: **Drastic** (Radikal, büyük, sert, şiddetli)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-18)
-* **Kelime:** **Accurate**
-* **Anlamı:** Doğru, kesin, hatasız
-* **Örnek Cümle:** *Scientists need accurate measurements to get valid results.*
+### 📝 Kelime Detayları (2026-07-19)
+* **Kelime:** **Drastic**
+* **Anlamı:** Radikal, büyük, sert, şiddetli
+* **Örnek Cümle:** *The company had to take drastic measures to avoid going bankrupt.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
