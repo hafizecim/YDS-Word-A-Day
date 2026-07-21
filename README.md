@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conceal** (Gizlemek, saklamak)
+# 🎯 Günün Kelimesi: **Crucial** (Çok önemli, kritik)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-20)
-* **Kelime:** **Conceal**
-* **Anlamı:** Gizlemek, saklamak
-* **Örnek Cümle:** *She tried to conceal her emotions behind a big smile.*
+### 📝 Kelime Detayları (2026-07-21)
+* **Kelime:** **Crucial**
+* **Anlamı:** Çok önemli, kritik
+* **Örnek Cümle:** *Diet and exercise play a crucial role in maintaining good health.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
