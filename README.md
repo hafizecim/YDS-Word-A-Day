@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Crucial** (Çok önemli, kritik)
+# 🎯 Günün Kelimesi: **Accumulate** (Biriktirmek, yığmak, çoğalmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-21)
-* **Kelime:** **Crucial**
-* **Anlamı:** Çok önemli, kritik
-* **Örnek Cümle:** *Diet and exercise play a crucial role in maintaining good health.*
+### 📝 Kelime Detayları (2026-07-22)
+* **Kelime:** **Accumulate**
+* **Anlamı:** Biriktirmek, yığmak, çoğalmak
+* **Örnek Cümle:** *Dust soon accumulates if the rooms are not swept regularly.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
