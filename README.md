@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Annihilate** (Yok etmek, imha etmek)
+# 🎯 Günün Kelimesi: **Conclusive** (Kesin, nihai, ikna edici)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-23)
-* **Kelime:** **Annihilate**
-* **Anlamı:** Yok etmek, imha etmek
-* **Örnek Cümle:** *The nuclear bomb has the potential to annihilate entire cities.*
+### 📝 Kelime Detayları (2026-07-24)
+* **Kelime:** **Conclusive**
+* **Anlamı:** Kesin, nihai, ikna edici
+* **Örnek Cümle:** *The DNA test provided conclusive proof that he was guilty.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
