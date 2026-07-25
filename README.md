@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conclusive** (Kesin, nihai, ikna edici)
+# 🎯 Günün Kelimesi: **Accumulate** (Biriktirmek, yığmak, çoğalmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-24)
-* **Kelime:** **Conclusive**
-* **Anlamı:** Kesin, nihai, ikna edici
-* **Örnek Cümle:** *The DNA test provided conclusive proof that he was guilty.*
+### 📝 Kelime Detayları (2026-07-25)
+* **Kelime:** **Accumulate**
+* **Anlamı:** Biriktirmek, yığmak, çoğalmak
+* **Örnek Cümle:** *Dust soon accumulates if the rooms are not swept regularly.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
