@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Accumulate** (Biriktirmek, yığmak, çoğalmak)
+# 🎯 Günün Kelimesi: **Brittle** (Kırılgan, hassas)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-25)
-* **Kelime:** **Accumulate**
-* **Anlamı:** Biriktirmek, yığmak, çoğalmak
-* **Örnek Cümle:** *Dust soon accumulates if the rooms are not swept regularly.*
+### 📝 Kelime Detayları (2026-07-26)
+* **Kelime:** **Brittle**
+* **Anlamı:** Kırılgan, hassas
+* **Örnek Cümle:** *As people get older, their bones become more brittle.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
