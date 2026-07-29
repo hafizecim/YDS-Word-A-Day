@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Attain** (Elde etmek, ulaşmak, kazanmak)
+# 🎯 Günün Kelimesi: **Abundant** (Bol, bereketli)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-28)
-* **Kelime:** **Attain**
-* **Anlamı:** Elde etmek, ulaşmak, kazanmak
-* **Örnek Cümle:** *She worked hard to attain her dream of becoming a professor.*
+### 📝 Kelime Detayları (2026-07-29)
+* **Kelime:** **Abundant**
+* **Anlamı:** Bol, bereketli
+* **Örnek Cümle:** *The region is famous for its abundant natural resources.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
