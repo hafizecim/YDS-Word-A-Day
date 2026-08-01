@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Cope** (Başa çıkmak, üstesinden gelmek)
+# 🎯 Günün Kelimesi: **Confine** (Sınırlandırmak, hapsetmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-07-31)
-* **Kelime:** **Cope**
-* **Anlamı:** Başa çıkmak, üstesinden gelmek
-* **Örnek Cümle:** *It can be difficult to cope with the stress of exam preparation.*
+### 📝 Kelime Detayları (2026-08-01)
+* **Kelime:** **Confine**
+* **Anlamı:** Sınırlandırmak, hapsetmek
+* **Örnek Cümle:** *Please confine your questions to the topic of today's lecture.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
