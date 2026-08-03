@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Drastic** (Radikal, büyük, sert, şiddetli)
+# 🎯 Günün Kelimesi: **Crucial** (Çok önemli, kritik)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-02)
-* **Kelime:** **Drastic**
-* **Anlamı:** Radikal, büyük, sert, şiddetli
-* **Örnek Cümle:** *The company had to take drastic measures to avoid going bankrupt.*
+### 📝 Kelime Detayları (2026-08-03)
+* **Kelime:** **Crucial**
+* **Anlamı:** Çok önemli, kritik
+* **Örnek Cümle:** *Diet and exercise play a crucial role in maintaining good health.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
