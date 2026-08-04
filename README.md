@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Crucial** (Çok önemli, kritik)
+# 🎯 Günün Kelimesi: **Abundant** (Bol, bereketli)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-03)
-* **Kelime:** **Crucial**
-* **Anlamı:** Çok önemli, kritik
-* **Örnek Cümle:** *Diet and exercise play a crucial role in maintaining good health.*
+### 📝 Kelime Detayları (2026-08-04)
+* **Kelime:** **Abundant**
+* **Anlamı:** Bol, bereketli
+* **Örnek Cümle:** *The region is famous for its abundant natural resources.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
