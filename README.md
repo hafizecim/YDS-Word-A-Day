@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Assert** (İleri sürmek, iddia etmek)
+# 🎯 Günün Kelimesi: **Decline** (Reddetmek, azalmak, düşüş)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-08)
-* **Kelime:** **Assert**
-* **Anlamı:** İleri sürmek, iddia etmek
-* **Örnek Cümle:** *The lawyer continued to assert that his client was innocent.*
+### 📝 Kelime Detayları (2026-08-09)
+* **Kelime:** **Decline**
+* **Anlamı:** Reddetmek, azalmak, düşüş
+* **Örnek Cümle:** *The number of tourists visiting the city has begun to decline.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
