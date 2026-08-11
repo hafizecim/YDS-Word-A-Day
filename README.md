@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Discipline** (Disiplin, hizaya getirmek)
+# 🎯 Günün Kelimesi: **Eager** (Hevesli, istekli)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-10)
-* **Kelime:** **Discipline**
-* **Anlamı:** Disiplin, hizaya getirmek
-* **Örnek Cümle:** *Success requires a high level of personal discipline and hard work.*
+### 📝 Kelime Detayları (2026-08-11)
+* **Kelime:** **Eager**
+* **Anlamı:** Hevesli, istekli
+* **Örnek Cümle:** *The young software developers were eager to learn new technologies.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
