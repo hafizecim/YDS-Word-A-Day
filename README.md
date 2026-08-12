@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Eager** (Hevesli, istekli)
+# 🎯 Günün Kelimesi: **Confine** (Sınırlandırmak, hapsetmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-11)
-* **Kelime:** **Eager**
-* **Anlamı:** Hevesli, istekli
-* **Örnek Cümle:** *The young software developers were eager to learn new technologies.*
+### 📝 Kelime Detayları (2026-08-12)
+* **Kelime:** **Confine**
+* **Anlamı:** Sınırlandırmak, hapsetmek
+* **Örnek Cümle:** *Please confine your questions to the topic of today's lecture.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
