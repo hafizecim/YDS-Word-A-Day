@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Confine** (Sınırlandırmak, hapsetmek)
+# 🎯 Günün Kelimesi: **Deteriorate** (Kötüleşmek, bozulmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-12)
-* **Kelime:** **Confine**
-* **Anlamı:** Sınırlandırmak, hapsetmek
-* **Örnek Cümle:** *Please confine your questions to the topic of today's lecture.*
+### 📝 Kelime Detayları (2026-08-13)
+* **Kelime:** **Deteriorate**
+* **Anlamı:** Kötüleşmek, bozulmak
+* **Örnek Cümle:** *The patient's condition began to deteriorate rapidly overnight.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
