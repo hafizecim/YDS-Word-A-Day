@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Decline** (Reddetmek, azalmak, düşüş)
+# 🎯 Günün Kelimesi: **Anticipate** (Ummak, beklemek, öngörmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-14)
-* **Kelime:** **Decline**
-* **Anlamı:** Reddetmek, azalmak, düşüş
-* **Örnek Cümle:** *The number of tourists visiting the city has begun to decline.*
+### 📝 Kelime Detayları (2026-08-15)
+* **Kelime:** **Anticipate**
+* **Anlamı:** Ummak, beklemek, öngörmek
+* **Örnek Cümle:** *We don't anticipate any major problems with the new software.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
