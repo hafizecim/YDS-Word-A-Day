@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Anticipate** (Ummak, beklemek, öngörmek)
+# 🎯 Günün Kelimesi: **Accelerate** (Hızlandırmak, ivme kazandırmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-15)
-* **Kelime:** **Anticipate**
-* **Anlamı:** Ummak, beklemek, öngörmek
-* **Örnek Cümle:** *We don't anticipate any major problems with the new software.*
+### 📝 Kelime Detayları (2026-08-16)
+* **Kelime:** **Accelerate**
+* **Anlamı:** Hızlandırmak, ivme kazandırmak
+* **Örnek Cümle:** *Exposure to the sun can accelerate the ageing process of the skin.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
