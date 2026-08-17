@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Accelerate** (Hızlandırmak, ivme kazandırmak)
+# 🎯 Günün Kelimesi: **Contradict** (Aksini iddia etmek, çelişmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-16)
-* **Kelime:** **Accelerate**
-* **Anlamı:** Hızlandırmak, ivme kazandırmak
-* **Örnek Cümle:** *Exposure to the sun can accelerate the ageing process of the skin.*
+### 📝 Kelime Detayları (2026-08-17)
+* **Kelime:** **Contradict**
+* **Anlamı:** Aksini iddia etmek, çelişmek
+* **Örnek Cümle:** *The witness's new statement seemed to contradict her previous one.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
