@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Contradict** (Aksini iddia etmek, çelişmek)
+# 🎯 Günün Kelimesi: **Conclusive** (Kesin, nihai, ikna edici)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-17)
-* **Kelime:** **Contradict**
-* **Anlamı:** Aksini iddia etmek, çelişmek
-* **Örnek Cümle:** *The witness's new statement seemed to contradict her previous one.*
+### 📝 Kelime Detayları (2026-08-18)
+* **Kelime:** **Conclusive**
+* **Anlamı:** Kesin, nihai, ikna edici
+* **Örnek Cümle:** *The DNA test provided conclusive proof that he was guilty.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
