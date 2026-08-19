@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conclusive** (Kesin, nihai, ikna edici)
+# 🎯 Günün Kelimesi: **Diminish** (Azalmak, eksilmek, küçülmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-18)
-* **Kelime:** **Conclusive**
-* **Anlamı:** Kesin, nihai, ikna edici
-* **Örnek Cümle:** *The DNA test provided conclusive proof that he was guilty.*
+### 📝 Kelime Detayları (2026-08-19)
+* **Kelime:** **Diminish**
+* **Anlamı:** Azalmak, eksilmek, küçülmek
+* **Örnek Cümle:** *The threat of war began to diminish as peace talks progressed.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
