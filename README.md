@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Comply** (Boyun eğmek, kurallara uymak)
+# 🎯 Günün Kelimesi: **Coincide** (Aynı zamana denk gelmek, uyuşmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-20)
-* **Kelime:** **Comply**
-* **Anlamı:** Boyun eğmek, kurallara uymak
-* **Örnek Cümle:** *All citizens must comply with the laws of the country.*
+### 📝 Kelime Detayları (2026-08-21)
+* **Kelime:** **Coincide**
+* **Anlamı:** Aynı zamana denk gelmek, uyuşmak
+* **Örnek Cümle:** *The publication of the book was timed to coincide with the exhibition.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
