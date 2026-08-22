@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Coincide** (Aynı zamana denk gelmek, uyuşmak)
+# 🎯 Günün Kelimesi: **Confine** (Sınırlandırmak, hapsetmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-21)
-* **Kelime:** **Coincide**
-* **Anlamı:** Aynı zamana denk gelmek, uyuşmak
-* **Örnek Cümle:** *The publication of the book was timed to coincide with the exhibition.*
+### 📝 Kelime Detayları (2026-08-22)
+* **Kelime:** **Confine**
+* **Anlamı:** Sınırlandırmak, hapsetmek
+* **Örnek Cümle:** *Please confine your questions to the topic of today's lecture.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
