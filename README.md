@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Abandon** (Terk etmek, vazgeçmek)
+# 🎯 Günün Kelimesi: **Condemn** (Kınamak, mahkum etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-23)
-* **Kelime:** **Abandon**
-* **Anlamı:** Terk etmek, vazgeçmek
-* **Örnek Cümle:** *The passengers were forced to abandon the sinking ship.*
+### 📝 Kelime Detayları (2026-08-24)
+* **Kelime:** **Condemn**
+* **Anlamı:** Kınamak, mahkum etmek
+* **Örnek Cümle:** *The United Nations voted to condemn the brutal attack.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
