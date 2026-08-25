@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Condemn** (Kınamak, mahkum etmek)
+# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-24)
-* **Kelime:** **Condemn**
-* **Anlamı:** Kınamak, mahkum etmek
-* **Örnek Cümle:** *The United Nations voted to condemn the brutal attack.*
+### 📝 Kelime Detayları (2026-08-25)
+* **Kelime:** **Conduct**
+* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
+* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
