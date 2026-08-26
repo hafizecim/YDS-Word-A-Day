@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
+# 🎯 Günün Kelimesi: **Discipline** (Disiplin, hizaya getirmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-25)
-* **Kelime:** **Conduct**
-* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
-* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
+### 📝 Kelime Detayları (2026-08-26)
+* **Kelime:** **Discipline**
+* **Anlamı:** Disiplin, hizaya getirmek
+* **Örnek Cümle:** *Success requires a high level of personal discipline and hard work.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
