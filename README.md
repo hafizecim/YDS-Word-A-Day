@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Barren** (Çorak, verimsiz, kısır)
+# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-28)
-* **Kelime:** **Barren**
-* **Anlamı:** Çorak, verimsiz, kısır
-* **Örnek Cümle:** *Few plants can grow in the barren soil of the desert.*
+### 📝 Kelime Detayları (2026-08-29)
+* **Kelime:** **Conduct**
+* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
+* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
