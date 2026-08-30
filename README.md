@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
+# 🎯 Günün Kelimesi: **Decline** (Reddetmek, azalmak, düşüş)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-29)
-* **Kelime:** **Conduct**
-* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
-* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
+### 📝 Kelime Detayları (2026-08-30)
+* **Kelime:** **Decline**
+* **Anlamı:** Reddetmek, azalmak, düşüş
+* **Örnek Cümle:** *The number of tourists visiting the city has begun to decline.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
