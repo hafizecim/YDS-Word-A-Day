@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Decline** (Reddetmek, azalmak, düşüş)
+# 🎯 Günün Kelimesi: **Drastic** (Radikal, büyük, sert, şiddetli)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-30)
-* **Kelime:** **Decline**
-* **Anlamı:** Reddetmek, azalmak, düşüş
-* **Örnek Cümle:** *The number of tourists visiting the city has begun to decline.*
+### 📝 Kelime Detayları (2026-08-31)
+* **Kelime:** **Drastic**
+* **Anlamı:** Radikal, büyük, sert, şiddetli
+* **Örnek Cümle:** *The company had to take drastic measures to avoid going bankrupt.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
