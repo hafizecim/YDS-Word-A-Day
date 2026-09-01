@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Drastic** (Radikal, büyük, sert, şiddetli)
+# 🎯 Günün Kelimesi: **Demolish** (Yıkmak, tahrip etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-08-31)
-* **Kelime:** **Drastic**
-* **Anlamı:** Radikal, büyük, sert, şiddetli
-* **Örnek Cümle:** *The company had to take drastic measures to avoid going bankrupt.*
+### 📝 Kelime Detayları (2026-09-01)
+* **Kelime:** **Demolish**
+* **Anlamı:** Yıkmak, tahrip etmek
+* **Örnek Cümle:** *The old factory was demolished to make way for a new park.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
