@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Demolish** (Yıkmak, tahrip etmek)
+# 🎯 Günün Kelimesi: **Eager** (Hevesli, istekli)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-01)
-* **Kelime:** **Demolish**
-* **Anlamı:** Yıkmak, tahrip etmek
-* **Örnek Cümle:** *The old factory was demolished to make way for a new park.*
+### 📝 Kelime Detayları (2026-09-02)
+* **Kelime:** **Eager**
+* **Anlamı:** Hevesli, istekli
+* **Örnek Cümle:** *The young software developers were eager to learn new technologies.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
