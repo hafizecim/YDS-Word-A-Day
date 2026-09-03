@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Eager** (Hevesli, istekli)
+# 🎯 Günün Kelimesi: **Ambiguous** (Belirsiz, muğlak, çift anlamlı)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-02)
-* **Kelime:** **Eager**
-* **Anlamı:** Hevesli, istekli
-* **Örnek Cümle:** *The young software developers were eager to learn new technologies.*
+### 📝 Kelime Detayları (2026-09-03)
+* **Kelime:** **Ambiguous**
+* **Anlamı:** Belirsiz, muğlak, çift anlamlı
+* **Örnek Cümle:** *The government's position on this issue remains ambiguous.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
