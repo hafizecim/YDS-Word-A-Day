@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Ambiguous** (Belirsiz, muğlak, çift anlamlı)
+# 🎯 Günün Kelimesi: **Annihilate** (Yok etmek, imha etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-03)
-* **Kelime:** **Ambiguous**
-* **Anlamı:** Belirsiz, muğlak, çift anlamlı
-* **Örnek Cümle:** *The government's position on this issue remains ambiguous.*
+### 📝 Kelime Detayları (2026-09-04)
+* **Kelime:** **Annihilate**
+* **Anlamı:** Yok etmek, imha etmek
+* **Örnek Cümle:** *The nuclear bomb has the potential to annihilate entire cities.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
