@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
+# 🎯 Günün Kelimesi: **Coincide** (Aynı zamana denk gelmek, uyuşmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-05)
-* **Kelime:** **Adopt**
-* **Anlamı:** Benimsemek, evlat edinmek
-* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
+### 📝 Kelime Detayları (2026-09-06)
+* **Kelime:** **Coincide**
+* **Anlamı:** Aynı zamana denk gelmek, uyuşmak
+* **Örnek Cümle:** *The publication of the book was timed to coincide with the exhibition.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
