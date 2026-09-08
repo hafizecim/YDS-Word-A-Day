@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Discipline** (Disiplin, hizaya getirmek)
+# 🎯 Günün Kelimesi: **Acknowledge** (Kabul etmek, itiraf etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-07)
-* **Kelime:** **Discipline**
-* **Anlamı:** Disiplin, hizaya getirmek
-* **Örnek Cümle:** *Success requires a high level of personal discipline and hard work.*
+### 📝 Kelime Detayları (2026-09-08)
+* **Kelime:** **Acknowledge**
+* **Anlamı:** Kabul etmek, itiraf etmek
+* **Örnek Cümle:** *He refused to acknowledge that he had made a mistake.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
