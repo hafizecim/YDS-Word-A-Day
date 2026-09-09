@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Acknowledge** (Kabul etmek, itiraf etmek)
+# 🎯 Günün Kelimesi: **Alter** (Değiştirmek, değiştirmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-08)
-* **Kelime:** **Acknowledge**
-* **Anlamı:** Kabul etmek, itiraf etmek
-* **Örnek Cümle:** *He refused to acknowledge that he had made a mistake.*
+### 📝 Kelime Detayları (2026-09-09)
+* **Kelime:** **Alter**
+* **Anlamı:** Değiştirmek, değiştirmek
+* **Örnek Cümle:** *We had to alter our plans due to the unexpected bad weather.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
