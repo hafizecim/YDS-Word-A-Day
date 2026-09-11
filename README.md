@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Compensate** (Tanzim etmek, telafi etmek)
+# 🎯 Günün Kelimesi: **Breakthrough** (Büyük buluş, önemli ilerleme)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-10)
-* **Kelime:** **Compensate**
-* **Anlamı:** Tanzim etmek, telafi etmek
-* **Örnek Cümle:** *Nothing can compensate for the loss of a loved one.*
+### 📝 Kelime Detayları (2026-09-11)
+* **Kelime:** **Breakthrough**
+* **Anlamı:** Büyük buluş, önemli ilerleme
+* **Örnek Cümle:** *Researchers made a major breakthrough in cancer treatment last year.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
