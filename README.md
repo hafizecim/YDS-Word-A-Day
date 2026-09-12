@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Breakthrough** (Büyük buluş, önemli ilerleme)
+# 🎯 Günün Kelimesi: **Abandon** (Terk etmek, vazgeçmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-11)
-* **Kelime:** **Breakthrough**
-* **Anlamı:** Büyük buluş, önemli ilerleme
-* **Örnek Cümle:** *Researchers made a major breakthrough in cancer treatment last year.*
+### 📝 Kelime Detayları (2026-09-12)
+* **Kelime:** **Abandon**
+* **Anlamı:** Terk etmek, vazgeçmek
+* **Örnek Cümle:** *The passengers were forced to abandon the sinking ship.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
