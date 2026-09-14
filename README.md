@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Barren** (Çorak, verimsiz, kısır)
+# 🎯 Günün Kelimesi: **Acknowledge** (Kabul etmek, itiraf etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-13)
-* **Kelime:** **Barren**
-* **Anlamı:** Çorak, verimsiz, kısır
-* **Örnek Cümle:** *Few plants can grow in the barren soil of the desert.*
+### 📝 Kelime Detayları (2026-09-14)
+* **Kelime:** **Acknowledge**
+* **Anlamı:** Kabul etmek, itiraf etmek
+* **Örnek Cümle:** *He refused to acknowledge that he had made a mistake.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
