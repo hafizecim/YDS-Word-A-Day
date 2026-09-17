@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Disaster** (Felaket, afet)
+# 🎯 Günün Kelimesi: **Cope** (Başa çıkmak, üstesinden gelmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-16)
-* **Kelime:** **Disaster**
-* **Anlamı:** Felaket, afet
-* **Örnek Cümle:** *The flooding was the worst natural disaster in the country's history.*
+### 📝 Kelime Detayları (2026-09-17)
+* **Kelime:** **Cope**
+* **Anlamı:** Başa çıkmak, üstesinden gelmek
+* **Örnek Cümle:** *It can be difficult to cope with the stress of exam preparation.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
