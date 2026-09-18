@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Cope** (Başa çıkmak, üstesinden gelmek)
+# 🎯 Günün Kelimesi: **Breakthrough** (Büyük buluş, önemli ilerleme)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-17)
-* **Kelime:** **Cope**
-* **Anlamı:** Başa çıkmak, üstesinden gelmek
-* **Örnek Cümle:** *It can be difficult to cope with the stress of exam preparation.*
+### 📝 Kelime Detayları (2026-09-18)
+* **Kelime:** **Breakthrough**
+* **Anlamı:** Büyük buluş, önemli ilerleme
+* **Örnek Cümle:** *Researchers made a major breakthrough in cancer treatment last year.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
