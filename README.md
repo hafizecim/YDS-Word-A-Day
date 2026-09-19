@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Breakthrough** (Büyük buluş, önemli ilerleme)
+# 🎯 Günün Kelimesi: **Barren** (Çorak, verimsiz, kısır)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-18)
-* **Kelime:** **Breakthrough**
-* **Anlamı:** Büyük buluş, önemli ilerleme
-* **Örnek Cümle:** *Researchers made a major breakthrough in cancer treatment last year.*
+### 📝 Kelime Detayları (2026-09-19)
+* **Kelime:** **Barren**
+* **Anlamı:** Çorak, verimsiz, kısır
+* **Örnek Cümle:** *Few plants can grow in the barren soil of the desert.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
