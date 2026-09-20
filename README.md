@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Barren** (Çorak, verimsiz, kısır)
+# 🎯 Günün Kelimesi: **Deteriorate** (Kötüleşmek, bozulmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-19)
-* **Kelime:** **Barren**
-* **Anlamı:** Çorak, verimsiz, kısır
-* **Örnek Cümle:** *Few plants can grow in the barren soil of the desert.*
+### 📝 Kelime Detayları (2026-09-20)
+* **Kelime:** **Deteriorate**
+* **Anlamı:** Kötüleşmek, bozulmak
+* **Örnek Cümle:** *The patient's condition began to deteriorate rapidly overnight.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
