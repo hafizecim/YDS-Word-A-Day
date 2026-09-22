@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Acknowledge** (Kabul etmek, itiraf etmek)
+# 🎯 Günün Kelimesi: **Assert** (İleri sürmek, iddia etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-21)
-* **Kelime:** **Acknowledge**
-* **Anlamı:** Kabul etmek, itiraf etmek
-* **Örnek Cümle:** *He refused to acknowledge that he had made a mistake.*
+### 📝 Kelime Detayları (2026-09-22)
+* **Kelime:** **Assert**
+* **Anlamı:** İleri sürmek, iddia etmek
+* **Örnek Cümle:** *The lawyer continued to assert that his client was innocent.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
