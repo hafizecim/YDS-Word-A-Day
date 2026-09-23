@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Assert** (İleri sürmek, iddia etmek)
+# 🎯 Günün Kelimesi: **Confine** (Sınırlandırmak, hapsetmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-22)
-* **Kelime:** **Assert**
-* **Anlamı:** İleri sürmek, iddia etmek
-* **Örnek Cümle:** *The lawyer continued to assert that his client was innocent.*
+### 📝 Kelime Detayları (2026-09-23)
+* **Kelime:** **Confine**
+* **Anlamı:** Sınırlandırmak, hapsetmek
+* **Örnek Cümle:** *Please confine your questions to the topic of today's lecture.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
