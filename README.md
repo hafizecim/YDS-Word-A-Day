@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Confine** (Sınırlandırmak, hapsetmek)
+# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-23)
-* **Kelime:** **Confine**
-* **Anlamı:** Sınırlandırmak, hapsetmek
-* **Örnek Cümle:** *Please confine your questions to the topic of today's lecture.*
+### 📝 Kelime Detayları (2026-09-24)
+* **Kelime:** **Conduct**
+* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
+* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
