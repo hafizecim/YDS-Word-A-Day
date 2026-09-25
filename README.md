@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
+# 🎯 Günün Kelimesi: **Advocate** (Savunmak, desteklemek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-24)
-* **Kelime:** **Conduct**
-* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
-* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
+### 📝 Kelime Detayları (2026-09-25)
+* **Kelime:** **Advocate**
+* **Anlamı:** Savunmak, desteklemek
+* **Örnek Cümle:** *She is known to advocate for the rights of children.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
