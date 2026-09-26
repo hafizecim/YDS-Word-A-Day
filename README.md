@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Advocate** (Savunmak, desteklemek)
+# 🎯 Günün Kelimesi: **Deprive** (Mahrum etmek, yoksun bırakmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-25)
-* **Kelime:** **Advocate**
-* **Anlamı:** Savunmak, desteklemek
-* **Örnek Cümle:** *She is known to advocate for the rights of children.*
+### 📝 Kelime Detayları (2026-09-26)
+* **Kelime:** **Deprive**
+* **Anlamı:** Mahrum etmek, yoksun bırakmak
+* **Örnek Cümle:** *You can't deprive citizens of their basic human rights.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
