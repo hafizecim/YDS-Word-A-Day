@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deprive** (Mahrum etmek, yoksun bırakmak)
+# 🎯 Günün Kelimesi: **Anticipate** (Ummak, beklemek, öngörmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-26)
-* **Kelime:** **Deprive**
-* **Anlamı:** Mahrum etmek, yoksun bırakmak
-* **Örnek Cümle:** *You can't deprive citizens of their basic human rights.*
+### 📝 Kelime Detayları (2026-09-27)
+* **Kelime:** **Anticipate**
+* **Anlamı:** Ummak, beklemek, öngörmek
+* **Örnek Cümle:** *We don't anticipate any major problems with the new software.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
