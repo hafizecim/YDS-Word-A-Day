@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Attribute** (Atfetmek, bağlamak, dayandırmak)
+# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-28)
-* **Kelime:** **Attribute**
-* **Anlamı:** Atfetmek, bağlamak, dayandırmak
-* **Örnek Cümle:** *Scientists attribute the rise in global temperatures to pollution.*
+### 📝 Kelime Detayları (2026-09-29)
+* **Kelime:** **Adopt**
+* **Anlamı:** Benimsemek, evlat edinmek
+* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
