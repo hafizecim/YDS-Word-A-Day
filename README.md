@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
+# 🎯 Günün Kelimesi: **Deteriorate** (Kötüleşmek, bozulmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-29)
-* **Kelime:** **Adopt**
-* **Anlamı:** Benimsemek, evlat edinmek
-* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
+### 📝 Kelime Detayları (2026-09-30)
+* **Kelime:** **Deteriorate**
+* **Anlamı:** Kötüleşmek, bozulmak
+* **Örnek Cümle:** *The patient's condition began to deteriorate rapidly overnight.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
