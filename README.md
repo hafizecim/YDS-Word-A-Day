@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deteriorate** (Kötüleşmek, bozulmak)
+# 🎯 Günün Kelimesi: **Anticipate** (Ummak, beklemek, öngörmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-09-30)
-* **Kelime:** **Deteriorate**
-* **Anlamı:** Kötüleşmek, bozulmak
-* **Örnek Cümle:** *The patient's condition began to deteriorate rapidly overnight.*
+### 📝 Kelime Detayları (2026-10-01)
+* **Kelime:** **Anticipate**
+* **Anlamı:** Ummak, beklemek, öngörmek
+* **Örnek Cümle:** *We don't anticipate any major problems with the new software.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
