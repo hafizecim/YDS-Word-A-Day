@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Anticipate** (Ummak, beklemek, öngörmek)
+# 🎯 Günün Kelimesi: **Brittle** (Kırılgan, hassas)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-01)
-* **Kelime:** **Anticipate**
-* **Anlamı:** Ummak, beklemek, öngörmek
-* **Örnek Cümle:** *We don't anticipate any major problems with the new software.*
+### 📝 Kelime Detayları (2026-10-02)
+* **Kelime:** **Brittle**
+* **Anlamı:** Kırılgan, hassas
+* **Örnek Cümle:** *As people get older, their bones become more brittle.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
