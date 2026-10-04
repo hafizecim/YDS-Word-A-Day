@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Assert** (İleri sürmek, iddia etmek)
+# 🎯 Günün Kelimesi: **Casualty** (Zayiat, yaralı/ölü sayısı)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-03)
-* **Kelime:** **Assert**
-* **Anlamı:** İleri sürmek, iddia etmek
-* **Örnek Cümle:** *The lawyer continued to assert that his client was innocent.*
+### 📝 Kelime Detayları (2026-10-04)
+* **Kelime:** **Casualty**
+* **Anlamı:** Zayiat, yaralı/ölü sayısı
+* **Örnek Cümle:** *Fortunately, there were no casualties in the traffic accident.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
