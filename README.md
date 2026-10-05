@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Casualty** (Zayiat, yaralı/ölü sayısı)
+# 🎯 Günün Kelimesi: **Abundant** (Bol, bereketli)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-04)
-* **Kelime:** **Casualty**
-* **Anlamı:** Zayiat, yaralı/ölü sayısı
-* **Örnek Cümle:** *Fortunately, there were no casualties in the traffic accident.*
+### 📝 Kelime Detayları (2026-10-05)
+* **Kelime:** **Abundant**
+* **Anlamı:** Bol, bereketli
+* **Örnek Cümle:** *The region is famous for its abundant natural resources.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
