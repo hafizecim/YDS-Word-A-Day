@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Abundant** (Bol, bereketli)
+# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-05)
-* **Kelime:** **Abundant**
-* **Anlamı:** Bol, bereketli
-* **Örnek Cümle:** *The region is famous for its abundant natural resources.*
+### 📝 Kelime Detayları (2026-10-06)
+* **Kelime:** **Conduct**
+* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
+* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
