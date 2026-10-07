@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Conduct** (Yürütmek, idare etmek, rehberlik etmek)
+# 🎯 Günün Kelimesi: **Deficient** (Eksik, yetersiz)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-06)
-* **Kelime:** **Conduct**
-* **Anlamı:** Yürütmek, idare etmek, rehberlik etmek
-* **Örnek Cümle:** *The university will conduct a research study on renewable energy.*
+### 📝 Kelime Detayları (2026-10-07)
+* **Kelime:** **Deficient**
+* **Anlamı:** Eksik, yetersiz
+* **Örnek Cümle:** *A diet deficient in calcium can lead to weak bones.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
