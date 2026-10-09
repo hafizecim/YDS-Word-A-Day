@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Contradict** (Aksini iddia etmek, çelişmek)
+# 🎯 Günün Kelimesi: **Alter** (Değiştirmek, değiştirmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-08)
-* **Kelime:** **Contradict**
-* **Anlamı:** Aksini iddia etmek, çelişmek
-* **Örnek Cümle:** *The witness's new statement seemed to contradict her previous one.*
+### 📝 Kelime Detayları (2026-10-09)
+* **Kelime:** **Alter**
+* **Anlamı:** Değiştirmek, değiştirmek
+* **Örnek Cümle:** *We had to alter our plans due to the unexpected bad weather.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
