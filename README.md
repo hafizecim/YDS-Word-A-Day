@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Compensate** (Tanzim etmek, telafi etmek)
+# 🎯 Günün Kelimesi: **Apparent** (Açık, bariz, görünür)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-10)
-* **Kelime:** **Compensate**
-* **Anlamı:** Tanzim etmek, telafi etmek
-* **Örnek Cümle:** *Nothing can compensate for the loss of a loved one.*
+### 📝 Kelime Detayları (2026-10-11)
+* **Kelime:** **Apparent**
+* **Anlamı:** Açık, bariz, görünür
+* **Örnek Cümle:** *It became apparent that the two sides would not reach an agreement.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
