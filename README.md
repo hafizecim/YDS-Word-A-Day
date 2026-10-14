@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deprive** (Mahrum etmek, yoksun bırakmak)
+# 🎯 Günün Kelimesi: **Discipline** (Disiplin, hizaya getirmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-13)
-* **Kelime:** **Deprive**
-* **Anlamı:** Mahrum etmek, yoksun bırakmak
-* **Örnek Cümle:** *You can't deprive citizens of their basic human rights.*
+### 📝 Kelime Detayları (2026-10-14)
+* **Kelime:** **Discipline**
+* **Anlamı:** Disiplin, hizaya getirmek
+* **Örnek Cümle:** *Success requires a high level of personal discipline and hard work.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
