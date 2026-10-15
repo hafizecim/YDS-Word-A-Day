@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Discipline** (Disiplin, hizaya getirmek)
+# 🎯 Günün Kelimesi: **Accumulate** (Biriktirmek, yığmak, çoğalmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-14)
-* **Kelime:** **Discipline**
-* **Anlamı:** Disiplin, hizaya getirmek
-* **Örnek Cümle:** *Success requires a high level of personal discipline and hard work.*
+### 📝 Kelime Detayları (2026-10-15)
+* **Kelime:** **Accumulate**
+* **Anlamı:** Biriktirmek, yığmak, çoğalmak
+* **Örnek Cümle:** *Dust soon accumulates if the rooms are not swept regularly.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
