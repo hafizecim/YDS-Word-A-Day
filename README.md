@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Condemn** (Kınamak, mahkum etmek)
+# 🎯 Günün Kelimesi: **Compensate** (Tanzim etmek, telafi etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-16)
-* **Kelime:** **Condemn**
-* **Anlamı:** Kınamak, mahkum etmek
-* **Örnek Cümle:** *The United Nations voted to condemn the brutal attack.*
+### 📝 Kelime Detayları (2026-10-17)
+* **Kelime:** **Compensate**
+* **Anlamı:** Tanzim etmek, telafi etmek
+* **Örnek Cümle:** *Nothing can compensate for the loss of a loved one.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
