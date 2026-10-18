@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Compensate** (Tanzim etmek, telafi etmek)
+# 🎯 Günün Kelimesi: **Deficient** (Eksik, yetersiz)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-17)
-* **Kelime:** **Compensate**
-* **Anlamı:** Tanzim etmek, telafi etmek
-* **Örnek Cümle:** *Nothing can compensate for the loss of a loved one.*
+### 📝 Kelime Detayları (2026-10-18)
+* **Kelime:** **Deficient**
+* **Anlamı:** Eksik, yetersiz
+* **Örnek Cümle:** *A diet deficient in calcium can lead to weak bones.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
