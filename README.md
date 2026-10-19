@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deficient** (Eksik, yetersiz)
+# 🎯 Günün Kelimesi: **Deprive** (Mahrum etmek, yoksun bırakmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-18)
-* **Kelime:** **Deficient**
-* **Anlamı:** Eksik, yetersiz
-* **Örnek Cümle:** *A diet deficient in calcium can lead to weak bones.*
+### 📝 Kelime Detayları (2026-10-19)
+* **Kelime:** **Deprive**
+* **Anlamı:** Mahrum etmek, yoksun bırakmak
+* **Örnek Cümle:** *You can't deprive citizens of their basic human rights.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
