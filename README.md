@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deprive** (Mahrum etmek, yoksun bırakmak)
+# 🎯 Günün Kelimesi: **Crucial** (Çok önemli, kritik)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-19)
-* **Kelime:** **Deprive**
-* **Anlamı:** Mahrum etmek, yoksun bırakmak
-* **Örnek Cümle:** *You can't deprive citizens of their basic human rights.*
+### 📝 Kelime Detayları (2026-10-20)
+* **Kelime:** **Crucial**
+* **Anlamı:** Çok önemli, kritik
+* **Örnek Cümle:** *Diet and exercise play a crucial role in maintaining good health.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
