@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Coincide** (Aynı zamana denk gelmek, uyuşmak)
+# 🎯 Günün Kelimesi: **Acknowledge** (Kabul etmek, itiraf etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-21)
-* **Kelime:** **Coincide**
-* **Anlamı:** Aynı zamana denk gelmek, uyuşmak
-* **Örnek Cümle:** *The publication of the book was timed to coincide with the exhibition.*
+### 📝 Kelime Detayları (2026-10-22)
+* **Kelime:** **Acknowledge**
+* **Anlamı:** Kabul etmek, itiraf etmek
+* **Örnek Cümle:** *He refused to acknowledge that he had made a mistake.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
