@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Alleviate** (Hafifletmek, yatıştırmak, dindirmek)
+# 🎯 Günün Kelimesi: **Abandon** (Terk etmek, vazgeçmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-24)
-* **Kelime:** **Alleviate**
-* **Anlamı:** Hafifletmek, yatıştırmak, dindirmek
-* **Örnek Cümle:** *The doctor gave him some medicine to alleviate the pain.*
+### 📝 Kelime Detayları (2026-10-25)
+* **Kelime:** **Abandon**
+* **Anlamı:** Terk etmek, vazgeçmek
+* **Örnek Cümle:** *The passengers were forced to abandon the sinking ship.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
