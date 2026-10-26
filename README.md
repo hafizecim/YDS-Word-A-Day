@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Abandon** (Terk etmek, vazgeçmek)
+# 🎯 Günün Kelimesi: **Alter** (Değiştirmek, değiştirmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-25)
-* **Kelime:** **Abandon**
-* **Anlamı:** Terk etmek, vazgeçmek
-* **Örnek Cümle:** *The passengers were forced to abandon the sinking ship.*
+### 📝 Kelime Detayları (2026-10-26)
+* **Kelime:** **Alter**
+* **Anlamı:** Değiştirmek, değiştirmek
+* **Örnek Cümle:** *We had to alter our plans due to the unexpected bad weather.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
