@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Alter** (Değiştirmek, değiştirmek)
+# 🎯 Günün Kelimesi: **Crucial** (Çok önemli, kritik)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-26)
-* **Kelime:** **Alter**
-* **Anlamı:** Değiştirmek, değiştirmek
-* **Örnek Cümle:** *We had to alter our plans due to the unexpected bad weather.*
+### 📝 Kelime Detayları (2026-10-27)
+* **Kelime:** **Crucial**
+* **Anlamı:** Çok önemli, kritik
+* **Örnek Cümle:** *Diet and exercise play a crucial role in maintaining good health.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
