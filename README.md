@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Durable** (Dayanıklı, uzun ömürlü)
+# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-28)
-* **Kelime:** **Durable**
-* **Anlamı:** Dayanıklı, uzun ömürlü
-* **Örnek Cümle:** *Plastic is a very durable material that can last for centuries.*
+### 📝 Kelime Detayları (2026-10-29)
+* **Kelime:** **Adopt**
+* **Anlamı:** Benimsemek, evlat edinmek
+* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
