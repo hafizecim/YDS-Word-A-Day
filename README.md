@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
+# 🎯 Günün Kelimesi: **Accelerate** (Hızlandırmak, ivme kazandırmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-10-29)
-* **Kelime:** **Adopt**
-* **Anlamı:** Benimsemek, evlat edinmek
-* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
+### 📝 Kelime Detayları (2026-10-30)
+* **Kelime:** **Accelerate**
+* **Anlamı:** Hızlandırmak, ivme kazandırmak
+* **Örnek Cümle:** *Exposure to the sun can accelerate the ageing process of the skin.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
