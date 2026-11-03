@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Arbitrary** (Keyfi, rastgele)
+# 🎯 Günün Kelimesi: **Demolish** (Yıkmak, tahrip etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-02)
-* **Kelime:** **Arbitrary**
-* **Anlamı:** Keyfi, rastgele
-* **Örnek Cümle:** *The teacher's decision to cancel the test seemed completely arbitrary.*
+### 📝 Kelime Detayları (2026-11-03)
+* **Kelime:** **Demolish**
+* **Anlamı:** Yıkmak, tahrip etmek
+* **Örnek Cümle:** *The old factory was demolished to make way for a new park.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
