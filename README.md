@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Demolish** (Yıkmak, tahrip etmek)
+# 🎯 Günün Kelimesi: **Crucial** (Çok önemli, kritik)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-03)
-* **Kelime:** **Demolish**
-* **Anlamı:** Yıkmak, tahrip etmek
-* **Örnek Cümle:** *The old factory was demolished to make way for a new park.*
+### 📝 Kelime Detayları (2026-11-04)
+* **Kelime:** **Crucial**
+* **Anlamı:** Çok önemli, kritik
+* **Örnek Cümle:** *Diet and exercise play a crucial role in maintaining good health.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
