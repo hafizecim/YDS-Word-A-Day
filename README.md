@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Apparent** (Açık, bariz, görünür)
+# 🎯 Günün Kelimesi: **Ambiguous** (Belirsiz, muğlak, çift anlamlı)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-05)
-* **Kelime:** **Apparent**
-* **Anlamı:** Açık, bariz, görünür
-* **Örnek Cümle:** *It became apparent that the two sides would not reach an agreement.*
+### 📝 Kelime Detayları (2026-11-06)
+* **Kelime:** **Ambiguous**
+* **Anlamı:** Belirsiz, muğlak, çift anlamlı
+* **Örnek Cümle:** *The government's position on this issue remains ambiguous.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
