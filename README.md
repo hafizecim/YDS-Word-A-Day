@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Comply** (Boyun eğmek, kurallara uymak)
+# 🎯 Günün Kelimesi: **Alleviate** (Hafifletmek, yatıştırmak, dindirmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-08)
-* **Kelime:** **Comply**
-* **Anlamı:** Boyun eğmek, kurallara uymak
-* **Örnek Cümle:** *All citizens must comply with the laws of the country.*
+### 📝 Kelime Detayları (2026-11-09)
+* **Kelime:** **Alleviate**
+* **Anlamı:** Hafifletmek, yatıştırmak, dindirmek
+* **Örnek Cümle:** *The doctor gave him some medicine to alleviate the pain.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
