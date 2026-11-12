@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deficient** (Eksik, yetersiz)
+# 🎯 Günün Kelimesi: **Abruptly** (Aniden, dikkatsizce, birdenbire)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-11)
-* **Kelime:** **Deficient**
-* **Anlamı:** Eksik, yetersiz
-* **Örnek Cümle:** *A diet deficient in calcium can lead to weak bones.*
+### 📝 Kelime Detayları (2026-11-12)
+* **Kelime:** **Abruptly**
+* **Anlamı:** Aniden, dikkatsizce, birdenbire
+* **Örnek Cümle:** *The bus came to an abrupt stop, making the passengers fall forward.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
