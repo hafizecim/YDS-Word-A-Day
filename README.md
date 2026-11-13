@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Abruptly** (Aniden, dikkatsizce, birdenbire)
+# 🎯 Günün Kelimesi: **Anticipate** (Ummak, beklemek, öngörmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-12)
-* **Kelime:** **Abruptly**
-* **Anlamı:** Aniden, dikkatsizce, birdenbire
-* **Örnek Cümle:** *The bus came to an abrupt stop, making the passengers fall forward.*
+### 📝 Kelime Detayları (2026-11-13)
+* **Kelime:** **Anticipate**
+* **Anlamı:** Ummak, beklemek, öngörmek
+* **Örnek Cümle:** *We don't anticipate any major problems with the new software.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
