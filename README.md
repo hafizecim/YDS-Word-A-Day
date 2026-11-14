@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Anticipate** (Ummak, beklemek, öngörmek)
+# 🎯 Günün Kelimesi: **Accumulate** (Biriktirmek, yığmak, çoğalmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-13)
-* **Kelime:** **Anticipate**
-* **Anlamı:** Ummak, beklemek, öngörmek
-* **Örnek Cümle:** *We don't anticipate any major problems with the new software.*
+### 📝 Kelime Detayları (2026-11-14)
+* **Kelime:** **Accumulate**
+* **Anlamı:** Biriktirmek, yığmak, çoğalmak
+* **Örnek Cümle:** *Dust soon accumulates if the rooms are not swept regularly.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
