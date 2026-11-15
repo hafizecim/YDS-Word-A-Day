@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Accumulate** (Biriktirmek, yığmak, çoğalmak)
+# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-14)
-* **Kelime:** **Accumulate**
-* **Anlamı:** Biriktirmek, yığmak, çoğalmak
-* **Örnek Cümle:** *Dust soon accumulates if the rooms are not swept regularly.*
+### 📝 Kelime Detayları (2026-11-15)
+* **Kelime:** **Adopt**
+* **Anlamı:** Benimsemek, evlat edinmek
+* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
