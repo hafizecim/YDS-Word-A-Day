@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Deliberately** (Kasten, bilerek, planlı olarak)
+# 🎯 Günün Kelimesi: **Adopt** (Benimsemek, evlat edinmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-16)
-* **Kelime:** **Deliberately**
-* **Anlamı:** Kasten, bilerek, planlı olarak
-* **Örnek Cümle:** *I believe that the fire was started deliberately.*
+### 📝 Kelime Detayları (2026-11-17)
+* **Kelime:** **Adopt**
+* **Anlamı:** Benimsemek, evlat edinmek
+* **Örnek Cümle:** *The company decided to adopt a new approach to marketing.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
