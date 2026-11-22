@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Anticipate** (Ummak, beklemek, öngörmek)
+# 🎯 Günün Kelimesi: **Demolish** (Yıkmak, tahrip etmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-21)
-* **Kelime:** **Anticipate**
-* **Anlamı:** Ummak, beklemek, öngörmek
-* **Örnek Cümle:** *We don't anticipate any major problems with the new software.*
+### 📝 Kelime Detayları (2026-11-22)
+* **Kelime:** **Demolish**
+* **Anlamı:** Yıkmak, tahrip etmek
+* **Örnek Cümle:** *The old factory was demolished to make way for a new park.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
