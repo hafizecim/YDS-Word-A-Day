@@ -2,7 +2,7 @@
 
 ---
 
-### 📝 Kelime Detayları (2026-11-22)
+### 📝 Kelime Detayları (2026-11-23)
 * **Kelime:** **Demolish**
 * **Anlamı:** Yıkmak, tahrip etmek
 * **Örnek Cümle:** *The old factory was demolished to make way for a new park.*
