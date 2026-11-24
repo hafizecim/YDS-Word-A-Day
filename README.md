@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Demolish** (Yıkmak, tahrip etmek)
+# 🎯 Günün Kelimesi: **Abandon** (Terk etmek, vazgeçmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-23)
-* **Kelime:** **Demolish**
-* **Anlamı:** Yıkmak, tahrip etmek
-* **Örnek Cümle:** *The old factory was demolished to make way for a new park.*
+### 📝 Kelime Detayları (2026-11-24)
+* **Kelime:** **Abandon**
+* **Anlamı:** Terk etmek, vazgeçmek
+* **Örnek Cümle:** *The passengers were forced to abandon the sinking ship.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
