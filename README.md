@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Abandon** (Terk etmek, vazgeçmek)
+# 🎯 Günün Kelimesi: **Attribute** (Atfetmek, bağlamak, dayandırmak)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-24)
-* **Kelime:** **Abandon**
-* **Anlamı:** Terk etmek, vazgeçmek
-* **Örnek Cümle:** *The passengers were forced to abandon the sinking ship.*
+### 📝 Kelime Detayları (2026-11-25)
+* **Kelime:** **Attribute**
+* **Anlamı:** Atfetmek, bağlamak, dayandırmak
+* **Örnek Cümle:** *Scientists attribute the rise in global temperatures to pollution.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
