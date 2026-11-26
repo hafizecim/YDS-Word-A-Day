@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Attribute** (Atfetmek, bağlamak, dayandırmak)
+# 🎯 Günün Kelimesi: **Alleviate** (Hafifletmek, yatıştırmak, dindirmek)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-25)
-* **Kelime:** **Attribute**
-* **Anlamı:** Atfetmek, bağlamak, dayandırmak
-* **Örnek Cümle:** *Scientists attribute the rise in global temperatures to pollution.*
+### 📝 Kelime Detayları (2026-11-26)
+* **Kelime:** **Alleviate**
+* **Anlamı:** Hafifletmek, yatıştırmak, dindirmek
+* **Örnek Cümle:** *The doctor gave him some medicine to alleviate the pain.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
