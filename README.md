@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Alleviate** (Hafifletmek, yatıştırmak, dindirmek)
+# 🎯 Günün Kelimesi: **Arbitrary** (Keyfi, rastgele)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-26)
-* **Kelime:** **Alleviate**
-* **Anlamı:** Hafifletmek, yatıştırmak, dindirmek
-* **Örnek Cümle:** *The doctor gave him some medicine to alleviate the pain.*
+### 📝 Kelime Detayları (2026-11-27)
+* **Kelime:** **Arbitrary**
+* **Anlamı:** Keyfi, rastgele
+* **Örnek Cümle:** *The teacher's decision to cancel the test seemed completely arbitrary.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
