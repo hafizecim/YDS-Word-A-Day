@@ -1,11 +1,11 @@
-# 🎯 Günün Kelimesi: **Arbitrary** (Keyfi, rastgele)
+# 🎯 Günün Kelimesi: **Eager** (Hevesli, istekli)
 
 ---
 
-### 📝 Kelime Detayları (2026-11-27)
-* **Kelime:** **Arbitrary**
-* **Anlamı:** Keyfi, rastgele
-* **Örnek Cümle:** *The teacher's decision to cancel the test seemed completely arbitrary.*
+### 📝 Kelime Detayları (2026-11-28)
+* **Kelime:** **Eager**
+* **Anlamı:** Hevesli, istekli
+* **Örnek Cümle:** *The young software developers were eager to learn new technologies.*
 
 ---
 *Bu depo her gün otomatik olarak yeni bir YDS kelimesi ile güncellenmektedir.*
